@@ -23,4 +23,4 @@ This Java project involves reading CSV data, calculating average establishment t
 
 2. **Clone the Repository**
    ```shell
-   git clone https://github.com/yourusername/CSVDataVisualization.git
+   git clone https://github.com/KaimarLilienthal/csv_analysis_homework.git
